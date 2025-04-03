@@ -1,3 +1,12 @@
+;; Algoritmos y Estructuras de Datos
+;; Entrega #3 Programa de Ejemplo
+;; Autor: Hugo Méndez - 241265
+
+
+;; Este programa en Clojure se encarga de procesar un texto para identificar las palabras más frecuentes.
+;; Utiliza funciones para limpiar el texto, contar las palabras y obtener las más frecuentes.
+;;
+
 (ns entrega3.core
   (:gen-class))
 
